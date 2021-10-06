@@ -5,6 +5,14 @@
 {
 	"version": "0.2.0",
 	"configurations": [
+	configuration
+		"${defaultBuildTask}"
+		"configurations"
+
+		possible
+
+
+
 		{
 			"name": "Run Extension",
 			"type": "extensionHost",
